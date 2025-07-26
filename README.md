@@ -22,6 +22,6 @@ CSS3: diseño visual, colores y estilos responsivos.
 JavaScript (ES6+): lógica del agregado de nombres, validación, sorteos y actualización del DOM.
 
 ## 🚀 Uso
-Ingresa al siguiente links:
+Ingresa al siguiente link:
 
 https://racontrz.github.io/challenge-amigo-secreto/
